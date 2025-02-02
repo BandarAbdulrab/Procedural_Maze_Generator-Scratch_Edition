@@ -28,10 +28,10 @@ The maze is generated using a recursive algorithm:
 2. Walls are randomly removed to create paths.
 3. The algorithm ensures there is always a valid path from the start to the exit.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Credits
-Created by: Jconway1
-Remixed by: Bandar Abdulrab
-Built with: Scratch
+## Credits
+- Created by: Jconway1
+- Remixed by: Bandar Abdulrab
+- Built with: Scratch
