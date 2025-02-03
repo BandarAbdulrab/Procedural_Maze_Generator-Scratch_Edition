@@ -33,5 +33,5 @@ This project is licensed under the MIT License.
 
 ## Credits
 - Created by: Jconway1
-- Remixed by: Bandar Abdulrab
+- Remixed by: Bandar Abdulrab (Ban_Gamer)
 - Built with: Scratch
